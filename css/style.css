@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+
+.p-src {
+    margin: 0%;
+}
+
+.card-src {
+    margin: 0 5%;
+    padding-bottom: 1%;
+    background-color: #EEEEEE;
+}
+
+.card-bt {
+    background-color: #62B3AA;
+    float: left;
+    text-align: center;
+    margin: 3px 1px;
+    margin-bottom: 2%;
+    width: 454px;
+    height: 76.8px;
+    font-size: 13px;
+}
+
+.p-card {
+    margin: 2px;
+}
+
+.container {
+    margin: 0 5%;
+}
+
+.clear {
+    clear: both;
+}
